@@ -21,6 +21,7 @@
 
 - React 
 - HTML5
+- CSS3
 - JavaScript
 - MySql
 - NodeJs
