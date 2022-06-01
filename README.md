@@ -17,15 +17,15 @@
 
   
 </div>
--React 
--HTML5
--JavaScript
--MySql
--NodeJs
--Azure clouding Computing and virtual machines  
--Language C and C++ (object-oriented paradigm)
--Java(object-oriented paradigm)
--Python 
+- React 
+- HTML5
+- JavaScript
+- MySql
+- NodeJs
+- Azure clouding Computing and virtual machines  
+- Language C and C++ (object-oriented paradigm)
+- Java(object-oriented paradigm)
+- Python 
 
 
 
