@@ -17,6 +17,17 @@
 
   
 </div>
+-React 
+-HTML5
+-JavaScript
+-MySql
+-NodeJs
+-Azure clouding Computing and virtual machines  
+-Language C and C++ (object-oriented paradigm)
+-Java(object-oriented paradigm)
+-Python 
+
+
 
 <!--
 **mschimieguel/mschimieguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
